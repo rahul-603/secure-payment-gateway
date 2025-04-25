@@ -1,6 +1,3 @@
-### **README for [backend](http://_vscodecontentref_/1)**
-
-md
 # Backend - Secure Payment Gateway
 
 This is the backend of the Secure Payment Gateway project, built using Node.js and Express.js. It handles user authentication, payment processing, and transaction management.
