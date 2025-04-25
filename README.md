@@ -51,11 +51,7 @@ This project is a full-stack application for secure payment processing. It allow
      ```
 
 3. **Set Up the Frontend**
-   - Navigate to the 
-
-frontend
-
- folder:
+   - Navigate to the `frontend/` folder:
      ```bash
      cd frontend
      ```
