@@ -73,8 +73,8 @@ This project is a full-stack application for secure payment processing. It allow
 5. **Test User Accounts**
    - Use the following test accounts from the `passwords.txt` file:
      - **Seller Account**:
-       - Email: `rahulk@business.example.com`
-       - Password: `Rahulk@7813`
+       - Email: `rahulk@merchant.example.com`
+       - Password: `GetThings`
      - **Buyer Account**:
        - Email: `rahulk@personal.example.com`
        - Password: `BuyThings`
