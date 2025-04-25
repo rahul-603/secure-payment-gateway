@@ -45,6 +45,7 @@ This project is a full-stack application for secure payment processing. It allow
      npm install
      ```
    - Set up environment variables in the `.env` file.
+
    - Start the backend server:
      ```bash
      npm start
@@ -60,6 +61,7 @@ This project is a full-stack application for secure payment processing. It allow
      npm install
      ```
    - Set up environment variables in the `.env` file.
+
    - Start the frontend development server:
      ```bash
      npm start
