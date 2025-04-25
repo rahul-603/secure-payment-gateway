@@ -37,8 +37,8 @@ This is the frontend of the Secure Payment Gateway project, built using React.js
 6. **Test User Accounts**
    - Use the following test accounts from the `passwords.txt` file:
      - **Seller Account**:
-       - Email: `rahulk@business.example.com`
-       - Password: `Rahulk@7813`
+       - Email: `rahulk@merchant.example.com`
+       - Password: `GetThings`
      - **Buyer Account**:
        - Email: `rahulk@personal.example.com`
        - Password: `BuyThings`
