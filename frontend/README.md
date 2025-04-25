@@ -1,4 +1,4 @@
-### **README for 
+###**README for 
 
 frontend
 
@@ -11,12 +11,12 @@ This is the frontend of the Secure Payment Gateway project, built using React.js
 
 ---
 
-## **Steps to Run the Frontend**
+##**Steps to Run the Frontend**
 
-1. **Extract the Project**
+1.**Extract the Project**
    - After downloading the project from GitHub as a ZIP file, extract it to your desired location.
 
-2. **Navigate to the Frontend Folder**
+2.**Navigate to the Frontend Folder**
    ```bash
    cd frontend
    ```
