@@ -33,13 +33,22 @@ This is the frontend of the Secure Payment Gateway project, built using React.js
      npm start
      ```
    - Open your browser and navigate to `http://localhost:3000`.
+  
+6. **Test User Accounts**
+   - Use the following test accounts from the `passwords.txt` file:
+     - **Seller Account**:
+       - Email: `rahulk@business.example.com`
+       - Password: `Rahulk@7813`
+     - **Buyer Account**:
+       - Email: `rahulk@personal.example.com`
+       - Password: `BuyThings`
 
-6. **Features**
+7. **Features**
    - **Signup/Login**: Users can register and log in to their accounts.
    - **Payment**: Users can make payments using PayPal.
    - **Transaction History**: Users can view their past transactions.
 
-7. **Build for Production**
+8. **Build for Production**
    - To create a production build, run:
      ```bash
      npm run build
